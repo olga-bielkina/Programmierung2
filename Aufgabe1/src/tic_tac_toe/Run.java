@@ -1,5 +1,10 @@
 package tic_tac_toe;
 
+/**
+ *
+ * @author olga.bielkina
+ *
+ */
 public class Run {
 
   public static void main(String[] args) {
