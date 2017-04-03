@@ -1,7 +1,7 @@
 package tic_tac_toe;
 
 /**
- * Runs the game.
+ * Runs the game .
  * 
  * @author olga.bielkina
  *
